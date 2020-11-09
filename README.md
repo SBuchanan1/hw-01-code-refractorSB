@@ -41,3 +41,5 @@ Matched nav color to section color and aside color to section color
 ---
 
 Initially, the assignment at hand was very hard. However, after going back and actually studying the code line for line everything makes more sense. In the index html I understand what is supposed to go where for proper functionality. Additionally, in the css file once linked to the html properly everything is easier to look at by line.
+
+Update: Everything makes so much sense now!
