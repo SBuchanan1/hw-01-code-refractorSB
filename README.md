@@ -1,4 +1,3 @@
 # hw-01-code-refractorSB
 
-Creating my first index.html file was a bit of a hassle to say the least.
-To be completely honest I didn't have everything properly installed initially to submit the homework assignment correctly.
+As web developers we want to be able to take an existing code and refactor it to essentially make it "cleaner". In this assignment we were provided with an index.html file. An index.html is the default file name for a website's home page.
